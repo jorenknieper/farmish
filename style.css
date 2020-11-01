@@ -73,8 +73,6 @@ nav{
 
 /* end header section  */
 
-
-
 /* start middle section */
 .middleContainer{
     display: flex;
@@ -193,7 +191,4 @@ nav{
     height: 180px;
     width: 440px;
 }
-
-
-
 /* end footer */
