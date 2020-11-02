@@ -10,7 +10,7 @@ The initial deadline is january. But there is no hurry.
 For this project, I'm going to use a kanban board in github projects you can find it here: [link to kanban](https://github.com/jorenknieper/farmish/projects/1).
 
 ##branches 
-Because I'm developing on my own right now and I want to use this repository for when te website goes live,... I'm going to start with setting up de repository, adding some files. When I'm going to start coding, I'm going to use a dev branch. Push everything to the dev branch, test everything and then push it to master. At the end of the day, every dev branch will be merged to master, just to see how it looks on the github pages: [live demo](https://github.com/jorenknieper/farmish/projects/1).
+Because I'm developing on my own right now and I want to use this repository for when te website goes live,... I'm going to start with setting up de repository, adding some files. When I'm going to start coding, I'm going to use a dev branch. Push everything to the dev branch, test everything and then push it to master. At the end of the day, every dev branch will be merged to master, just to see how it looks on the github pages: [live demo](https://jorenknieper.github.io/farmish/).
 
 
 ## 02 November 2020 
